@@ -1,0 +1,14 @@
+server:
+    port: 8001
+spring:
+    application:
+        name: rocketmq-producer
+
+rocketmq:
+    name-server: 162.14.64.15:9876
+    producer:
+        group: producer-group-one
+
+
+
+

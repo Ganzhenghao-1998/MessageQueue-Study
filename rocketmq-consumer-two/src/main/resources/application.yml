@@ -1,0 +1,9 @@
+server:
+    port: 8003
+spring:
+    application:
+        name: rocketmq-consumer-two
+
+
+rocketmq:
+  name-server: 162.14.64.15:9876
